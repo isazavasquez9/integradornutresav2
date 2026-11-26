@@ -99,11 +99,5 @@ public class Colección {
         this.idUsuario = idUsuario;
     }
 
-    public List<Favorito> getFavoritos() {
-        return favoritos;
-    }
-
-    public void setFavoritos(List<Favorito> favoritos) {
-        this.favoritos = favoritos;
-    }
+   
 }
